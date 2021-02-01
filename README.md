@@ -30,6 +30,6 @@ docker-compose up
 4. In a separate command prompt, start an interactive session in the laravel.strawberry container by
 
 ```
-docker-compose exec laravel.test bash
+docker-compose exec laravel.strawberry bash
 ```
 Here you can use the original commands like `php artisan` and `composer` seamlessly
